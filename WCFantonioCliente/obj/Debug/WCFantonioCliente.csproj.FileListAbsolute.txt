@@ -1,0 +1,10 @@
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\bin\Debug\WCFantonioCliente.exe.config
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\bin\Debug\WCFantonioCliente.exe
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\bin\Debug\WCFantonioCliente.pdb
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.Form1.resources
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.Properties.Resources.resources
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.csproj.GenerateResource.cache
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.exe
+C:\Users\saul\source\repos\WcfAntonioHost\WCFantonioCliente\obj\Debug\WCFantonioCliente.pdb

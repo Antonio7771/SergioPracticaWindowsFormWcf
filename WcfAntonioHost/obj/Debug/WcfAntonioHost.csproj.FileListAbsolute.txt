@@ -1,0 +1,7 @@
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\bin\WcfAntonioHost.dll.config
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\bin\WcfAntonioHost.dll
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\bin\WcfAntonioHost.pdb
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\obj\Debug\WcfAntonioHost.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\obj\Debug\WcfAntonioHost.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\obj\Debug\WcfAntonioHost.dll
+C:\Users\saul\source\repos\WcfAntonioHost\WcfAntonioHost\obj\Debug\WcfAntonioHost.pdb
